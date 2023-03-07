@@ -1,0 +1,63 @@
+PODS:
+  - agora_rtc_engine (6.1.0):
+    - AgoraIrisRTC_iOS (= 4.1.0-rc.2)
+    - AgoraRtcEngine_iOS (= 4.1.0)
+    - Flutter
+  - AgoraIrisRTC_iOS (4.1.0-rc.2)
+  - AgoraRtcEngine_iOS (4.1.0):
+    - AgoraRtcEngine_iOS/AIAEC (= 4.1.0)
+    - AgoraRtcEngine_iOS/AINS (= 4.1.0)
+    - AgoraRtcEngine_iOS/AudioBeauty (= 4.1.0)
+    - AgoraRtcEngine_iOS/ClearVision (= 4.1.0)
+    - AgoraRtcEngine_iOS/ContentInspect (= 4.1.0)
+    - AgoraRtcEngine_iOS/DRM (= 4.1.0)
+    - AgoraRtcEngine_iOS/ReplayKit (= 4.1.0)
+    - AgoraRtcEngine_iOS/RtcBasic (= 4.1.0)
+    - AgoraRtcEngine_iOS/SpatialAudio (= 4.1.0)
+    - AgoraRtcEngine_iOS/SuperResolution (= 4.1.0)
+    - AgoraRtcEngine_iOS/VirtualBackground (= 4.1.0)
+    - AgoraRtcEngine_iOS/VQA (= 4.1.0)
+  - AgoraRtcEngine_iOS/AIAEC (4.1.0)
+  - AgoraRtcEngine_iOS/AINS (4.1.0)
+  - AgoraRtcEngine_iOS/AudioBeauty (4.1.0)
+  - AgoraRtcEngine_iOS/ClearVision (4.1.0)
+  - AgoraRtcEngine_iOS/ContentInspect (4.1.0)
+  - AgoraRtcEngine_iOS/DRM (4.1.0)
+  - AgoraRtcEngine_iOS/ReplayKit (4.1.0)
+  - AgoraRtcEngine_iOS/RtcBasic (4.1.0)
+  - AgoraRtcEngine_iOS/SpatialAudio (4.1.0)
+  - AgoraRtcEngine_iOS/SuperResolution (4.1.0)
+  - AgoraRtcEngine_iOS/VirtualBackground (4.1.0)
+  - AgoraRtcEngine_iOS/VQA (4.1.0)
+  - Flutter (1.0.0)
+  - iris_method_channel (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - agora_rtc_engine (from `.symlinks/plugins/agora_rtc_engine/ios`)
+  - Flutter (from `Flutter`)
+  - iris_method_channel (from `.symlinks/plugins/iris_method_channel/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AgoraIrisRTC_iOS
+    - AgoraRtcEngine_iOS
+
+EXTERNAL SOURCES:
+  agora_rtc_engine:
+    :path: ".symlinks/plugins/agora_rtc_engine/ios"
+  Flutter:
+    :path: Flutter
+  iris_method_channel:
+    :path: ".symlinks/plugins/iris_method_channel/ios"
+
+SPEC CHECKSUMS:
+  agora_rtc_engine: a84afbebf11801043623d3b5f994bb69d4159948
+  AgoraIrisRTC_iOS: 820fbab2d78d870a1bad4b1a02f950a390c73b48
+  AgoraRtcEngine_iOS: 33f0136ad4196b2a31c8470e6b536fe77fb25f8b
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  iris_method_channel: 0617c689164d8154c020c50f63ca79f92b8a7b9d
+
+PODFILE CHECKSUM: 751215ab0ce596e05c40f95c3b8af3a92bc4ba65
+
+COCOAPODS: 1.11.3
